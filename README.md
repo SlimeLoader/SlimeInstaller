@@ -1,0 +1,2 @@
+# SlimeInstaller
+SlimeLoader installer
